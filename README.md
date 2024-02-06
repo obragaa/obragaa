@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, Mundo! 👋
 
-<!--
-**obragaa/obragaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!Banner
 
-Here are some ideas to get you started:
+Eu sou o Felipe!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui é onde eu compartilho meu trabalho e projetos que estou desenvolvendo. 
+
+## 🚀 Sobre Mim
+Eu sou um desenvolvedor full-stack cursando Engenharia de Software...
+
+## 🛠️ Habilidades
+Python, Java, C++, C#, JavaScript, React, Node.js
+
+## 📊 Estatísticas do GitHub
+!Estatísticas do GitHub
+
+## 📬 Entre em Contato
+Você pode me encontrar nas seguintes plataformas:
+
+!LinkedIn
+!Twitter
+
+Obrigado por visitar meu perfil. Aproveite a exploração! 🌎
