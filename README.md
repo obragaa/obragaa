@@ -1,7 +1,5 @@
 # Olá, Mundo! 👋
 
-!Banner
-
 Eu sou o Felipe!
 
 Aqui é onde eu compartilho meu trabalho e projetos que estou desenvolvendo. 
