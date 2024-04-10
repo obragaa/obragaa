@@ -8,4 +8,4 @@ Aqui é onde eu compartilho meu trabalho e projetos que estou desenvolvendo.
 Eu sou um desenvolvedor full-stack cursando Engenharia de Software...
 
 ## 🛠️ Habilidades
-Python, Java, C++, C#, AWS, Docker, Django, JavaScript, React, Node.js.
+Python, Java, C++, C#, AWS, SQL, Docker, Django, JavaScript, React, Node.js.
