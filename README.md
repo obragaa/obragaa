@@ -5,7 +5,8 @@ I'm Felipe!
 This is where I share my work and the projects I'm developing.
 
 ## 🚀 About Me
-I'm a full-stack developer pursuing a degree in Software Engineering...
+- Portfolio: https://obragaa.github.io/felipebragaduarte.github.io/
+- I'm a full-stack developer pursuing a degree in Software Engineering...
 
 ## 🛠️ Skills
 Python, Java, C++, C#, AWS, SQL, Docker, Django, JavaScript, React, Node.js.
