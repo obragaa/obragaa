@@ -5,7 +5,7 @@ I'm Felipe!
 This is where I share my work and the projects I'm developing.
 
 ## 🚀 About Me
-- Portfolio: https://obragaa.github.io/felipebragaduarte.github.io/
+- Portfolio: https://obragaa.github.io/
 - I'm a full-stack developer pursuing a degree in Software Engineering...
 
 ## 🛠️ Skills
@@ -20,7 +20,7 @@ Eu sou o Felipe!
 Aqui é onde eu compartilho meu trabalho e projetos que estou desenvolvendo. 
 
 ## 🚀 Sobre Mim
-- Porfólio: https://obragaa.github.io/felipebragaduarte.github.io/
+- Portfólio: https://obragaa.github.io/
 - Eu sou um desenvolvedor full-stack cursando Engenharia de Software...
 
 ## 🛠️ Habilidades
